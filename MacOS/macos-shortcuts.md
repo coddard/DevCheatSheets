@@ -1,18 +1,28 @@
 # MacOS Keyboard Shortcuts
 
+_Last updated: June 2025_
+_Compatible with: macOS Ventura & Sonoma_
+
+
+
 This document provides a comprehensive list of keyboard shortcuts for MacOS, organized into sections for easy reference. Use these shortcuts to enhance your productivity and efficiency while using your Mac. Emojis are used to make the descriptions more engaging and memorable.
 
 ## Table of Contents
+
 
 - [Modifier Keys](#modifier-keys)
 - [Common Shortcuts](#common-shortcuts)
 - [Sleep, Log Out, and Shut Down Shortcuts](#sleep-log-out-and-shut-down-shortcuts)
 - [Finder and System Shortcuts](#finder-and-system-shortcuts)
 - [Document Shortcuts](#document-shortcuts)
+- [Accessibility Shortcuts](#accessibility-shortcuts)
+
 
 ---
 
 ## Modifier Keys
+
+[🔝 Back to top](#table-of-contents)
 
 - **⌘**: **Command (Cmd)** - The powerhouse of shortcuts! 💪
 - **⌃**: **Control (Ctrl)** - For precise control! 🎮
@@ -24,6 +34,8 @@ This document provides a comprehensive list of keyboard shortcuts for MacOS, org
 ---
 
 ## Common Shortcuts
+
+[🔝 Back to top](#table-of-contents)
 
 - **⌘ + X**: ✂️ Cut the selected item and copy it to the Clipboard
 - **⌘ + C**: 📋 Copy the selected item to the Clipboard (works in Finder too!)
@@ -61,6 +73,8 @@ This document provides a comprehensive list of keyboard shortcuts for MacOS, org
 
 ## Sleep, Log Out, and Shut Down Shortcuts
 
+[🔝 Back to top](#table-of-contents)
+
 - **Power button**: 🔋 Press to turn on or wake your Mac
 - **Power button**: 😴 Press and hold for 1.5s to put your Mac to sleep
 - **Power button**: 🛑 Press and hold to force your Mac to turn off
@@ -81,6 +95,8 @@ This document provides a comprehensive list of keyboard shortcuts for MacOS, org
 ---
 
 ## Finder and System Shortcuts
+
+[🔝 Back to top](#table-of-contents)
 
 - **⌘ + D**: 📑 Duplicate the selected files
 - **⌘ + E**: ⏏️ Eject the selected disk or volume
@@ -157,6 +173,8 @@ This document provides a comprehensive list of keyboard shortcuts for MacOS, org
 
 ## Document Shortcuts
 
+[🔝 Back to top](#table-of-contents)
+
 - **⌘ + B**: **Bold** the selected text or toggle bold 🎨
 - **⌘ + I**: *Italicize* the selected text or toggle italics 🎨
 - **⌘ + K**: 🔗 Add a web link
@@ -220,3 +238,12 @@ This document provides a comprehensive list of keyboard shortcuts for MacOS, org
 
 ---
 
+## Accessibility Shortcuts
+
+- **⌥ + ⌘ + F5**: 🧭 Open Accessibility Shortcuts panel
+- **⌃ + ⌘ + F5**: 🔊 Turn VoiceOver on/off
+- **⌃ + ⌥ + ⌘ + 8**: 🌗 Invert display colors
+- **⌃ + ⌥ + ⌘ + ,**: 🔍 Zoom in
+- **⌃ + ⌥ + ⌘ + .**: 🔍 Zoom out
+
+[🔝 Back to top](#table-of-contents)
