@@ -1,8 +1,6 @@
----
+# 🖥️ macOS Keyboard Shortcuts
 
-# 🖥️ macOS Keyboard Shortcuts  
-
-**Supercharge your Mac workflow with emoji-powered shortcuts! 🚀✨**  
+**Supercharge your Mac workflow with emoji-powered shortcuts! 🚀✨**
 
 ---
 
