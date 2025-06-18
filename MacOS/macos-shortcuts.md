@@ -1,10 +1,5 @@
 # MacOS Keyboard Shortcuts
 
-_Last updated: June 2025_
-_Compatible with: macOS Ventura & Sonoma_
-
-
-
 This document provides a comprehensive list of keyboard shortcuts for MacOS, organized into sections for easy reference. Use these shortcuts to enhance your productivity and efficiency while using your Mac. Emojis are used to make the descriptions more engaging and memorable.
 
 ## Table of Contents
@@ -22,8 +17,6 @@ This document provides a comprehensive list of keyboard shortcuts for MacOS, org
 
 ## Modifier Keys
 
-[🔝 Back to top](#table-of-contents)
-
 - **⌘**: **Command (Cmd)** - The powerhouse of shortcuts! 💪
 - **⌃**: **Control (Ctrl)** - For precise control! 🎮
 - **⌥**: **Option (Alt)** - Unlock hidden options! 🔓
@@ -34,8 +27,6 @@ This document provides a comprehensive list of keyboard shortcuts for MacOS, org
 ---
 
 ## Common Shortcuts
-
-[🔝 Back to top](#table-of-contents)
 
 - **⌘ + X**: ✂️ Cut the selected item and copy it to the Clipboard
 - **⌘ + C**: 📋 Copy the selected item to the Clipboard (works in Finder too!)
