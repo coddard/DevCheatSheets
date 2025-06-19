@@ -1,7 +1,5 @@
 # 📊 Excel Cheat Sheet: Zero to Mastery
 
-## 🧠 The 10% of Excel You'll Use 99% of the Time
-
 > Brackets surrounding an argument in function syntax (e.g., `[argument]`) indicate that the argument is optional.
 
 ---
