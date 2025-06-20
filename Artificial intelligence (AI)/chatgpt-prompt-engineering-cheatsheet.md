@@ -1,7 +1,6 @@
-
 # 💬 ChatGPT Prompt Engineering Cheat Sheet
 
-> 🧠 *A practical guide to writing efficient and powerful prompts for ChatGPT.*
+> 🧠 _A practical guide to writing efficient and powerful prompts for ChatGPT._
 
 ![ChatGPT Banner](https://img.shields.io/badge/AI%20Toolkit-ChatGPT%20Prompt%20Guide-%234aa181?style=for-the-badge&logo=openai&logoColor=white)
 
@@ -26,13 +25,13 @@
 
 ### 🧩 Terminology
 
-| Term              | Description |
-|-------------------|-------------|
-| **Prompt**        | Input text to guide AI responses. |
-| **Tokens**        | Basic units of text AI understands. |
+| Term              | Description                               |
+| ----------------- | ----------------------------------------- |
+| **Prompt**        | Input text to guide AI responses.         |
+| **Tokens**        | Basic units of text AI understands.       |
 | **LLM**           | Large Language Model trained on big data. |
-| **Hallucination** | AI-generated but inaccurate content. |
-| **Jailbreak**     | Attempt to bypass AI content safeguards. |
+| **Hallucination** | AI-generated but inaccurate content.      |
+| **Jailbreak**     | Attempt to bypass AI content safeguards.  |
 
 ---
 
@@ -51,6 +50,7 @@ Use only the parts relevant to your goal.
 ### 👤 Role
 
 Examples:
+
 - `Act as a startup advisor`
 - `Be my fitness coach`
 - `Roleplay as Sherlock Holmes`
@@ -72,36 +72,36 @@ Use clear, direct instructions with specific intent:
 
 ### 5W1H Examples
 
-| Type | Examples |
-|------|----------|
-| Who  | Who is responsible for X? |
-| What | What does X mean? |
-| When | When should X be done? |
-| Where | Where did X happen? |
-| Why | Why did X occur? |
-| How | How do you solve X? |
+| Type  | Examples                  |
+| ----- | ------------------------- |
+| Who   | Who is responsible for X? |
+| What  | What does X mean?         |
+| When  | When should X be done?    |
+| Where | Where did X happen?       |
+| Why   | Why did X occur?          |
+| How   | How do you solve X?       |
 
 ---
 
 ### 🎨 Tone
 
-| Type      | Examples |
-|-----------|----------|
-| Formality | Formal, Informal |
+| Type      | Examples                               |
+| --------- | -------------------------------------- |
+| Formality | Formal, Informal                       |
 | Emotion   | Calm, Encouraging, Critical, Sarcastic |
-| Style     | Humorous, Assertive, Inspirational |
+| Style     | Humorous, Assertive, Inspirational     |
 
 ---
 
 ### 📦 Format
 
-| Style         | Output |
-|---------------|--------|
-| Bullet List   | `- Item 1` |
-| Code          | ````python`...` |
-| Step-by-step  | `1. Do this` |
-| Creative      | `Poem, Comic, Lyrics` |
-| Interactive   | `RPG, CYOA, Quiz` |
+| Style        | Output                |
+| ------------ | --------------------- |
+| Bullet List  | `- Item 1`            |
+| Code         | ````python`...`       |
+| Step-by-step | `1. Do this`          |
+| Creative     | `Poem, Comic, Lyrics` |
+| Interactive  | `RPG, CYOA, Quiz`     |
 
 ---
 
@@ -203,23 +203,12 @@ Research top publications on deep learning
 
 ## 🧪 Use Cases
 
-| Category    | Use Case |
-|-------------|----------|
-| Business    | Idea validation, course creation |
-| Education   | Lesson planning, essay evaluation |
-| Software    | Debugging, code generation |
-| Content     | Blog writing, SEO optimization |
-| Marketing   | Ad copy, customer segmentation |
+| Category  | Use Case                          |
+| --------- | --------------------------------- |
+| Business  | Idea validation, course creation  |
+| Education | Lesson planning, essay evaluation |
+| Software  | Debugging, code generation        |
+| Content   | Blog writing, SEO optimization    |
+| Marketing | Ad copy, customer segmentation    |
 
 ---
-
-## 🌐 References & Tools
-
-- 🔗 [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
-- 💡 [Fechin's Prompt Index](https://github.com/Fechin/reference/blob/main/source/_posts/chatgpt.md)
-
----
-
-## 🤝 Contributing
-
-Have your own favorite prompts? Open a PR or [create an issue](https://github.com/YOUR_REPO/issues) with your suggestions!
