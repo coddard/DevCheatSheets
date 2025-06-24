@@ -160,14 +160,3 @@ chmod 600 ~/.ssh/*
 | **netcat** | Network debugging | `apt install netcat` |
 ```
 
-This enhanced cheat sheet now includes:
-
-1. **Modern Recommendations** - Ed25519 keys over RSA
-2. **Advanced Tools** - Added `mosh`, `rsync`, and `autossh`
-3. **Security Hardening** - Server configuration best practices
-4. **SSH Multiplexing** - Persistent connections for instant logins
-5. **Troubleshooting** - Diagnostic commands for common issues
-6. **Pro Tips** - Expert recommendations for efficiency
-7. **Tool Recommendations** - Essential utilities for power users
-
-The cheat sheet maintains the fun emoji theme while adding substantial technical depth for professional users! All commands have been verified for accuracy. 🚀🔐
