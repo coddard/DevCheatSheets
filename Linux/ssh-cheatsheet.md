@@ -5,10 +5,6 @@ Your Swiss Army Knife for Secure Remote Operations! 🔐💻
 
 ---
 
-# 🚀 Ultimate SSH/SCP/SFTP Cheat Sheet  
-**Your Swiss Army Knife for Secure Remote Operations!** 🔐💻  
-
----
 
 ## 🔌 Basic SSH Connections
 
