@@ -1,9 +1,3 @@
-# 🚀 Ultimate SSH/SCP/SFTP Cheat Sheet  
-*Your Swiss Army Knife for Secure Remote Operations!* 🔐💻  
-
-Sure! Here's a **`README.md`** file that you can use for your GitHub repository, styled with emojis and content from the provided `ssh-cheatsheet.md`. It’s clean, well-structured, and ready to go:
-
----
 
 ### 🚀 Ultimate SSH/SCP/SFTP Cheat Sheet
 
